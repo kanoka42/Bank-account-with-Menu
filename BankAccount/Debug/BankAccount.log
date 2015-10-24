@@ -1,0 +1,22 @@
+﻿Build started 10/24/2015 2:57:01 AM.
+     1>Project "C:\Users\Destry\Documents\Visual Studio 2015\Projects\BankAccount\BankAccount\BankAccount.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\BankAccount.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt BankAccount.cpp
+         BankAccount.cpp
+     1>c:\users\destry\documents\visual studio 2015\projects\bankaccount\bankaccount\bankaccount.cpp(117): warning C4101: 'id': unreferenced local variable
+     1>c:\users\destry\documents\visual studio 2015\projects\bankaccount\bankaccount\bankaccount.cpp(120): warning C4101: 'deposit': unreferenced local variable
+     1>c:\users\destry\documents\visual studio 2015\projects\bankaccount\bankaccount\bankaccount.cpp(118): warning C4101: 'balance_one': unreferenced local variable
+     1>c:\users\destry\documents\visual studio 2015\projects\bankaccount\bankaccount\bankaccount.cpp(121): warning C4101: 'depositTwo': unreferenced local variable
+     1>c:\users\destry\documents\visual studio 2015\projects\bankaccount\bankaccount\bankaccount.cpp(122): warning C4101: 'withdraw': unreferenced local variable
+     1>c:\users\destry\documents\visual studio 2015\projects\bankaccount\bankaccount\bankaccount.cpp(119): warning C4101: 'balance_two': unreferenced local variable
+     1>c:\users\destry\documents\visual studio 2015\projects\bankaccount\bankaccount\bankaccount.cpp(123): warning C4101: 'withdrawTwo': unreferenced local variable
+     1>c:\users\destry\documents\visual studio 2015\projects\bankaccount\bankaccount\bankaccount.cpp(116): warning C4101: 'box': unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Destry\Documents\Visual Studio 2015\Projects\BankAccount\Debug\BankAccount.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Destry\Documents\Visual Studio 2015\Projects\BankAccount\Debug\BankAccount.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Destry\Documents\Visual Studio 2015\Projects\BankAccount\Debug\BankAccount.lib" /MACHINE:X86 Debug\BankAccount.obj
+         Debug\stdafx.obj
+         BankAccount.vcxproj -> C:\Users\Destry\Documents\Visual Studio 2015\Projects\BankAccount\Debug\BankAccount.exe
+     1>Done Building Project "C:\Users\Destry\Documents\Visual Studio 2015\Projects\BankAccount\BankAccount\BankAccount.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
